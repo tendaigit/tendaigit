@@ -34,7 +34,7 @@
 ### Security + 
 - **Issued by**: Comptia
 - **Date**: 06/2024
-- [View Certificate](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=D1FA3087EC5371A6128D096050AAC0BCO939708B0FFEA7131B34CEB55C7A8B74E)
+- [View Certificate](file:///Users/macbook/Downloads/CompTIA%20Security+%20ce%20certificate%20(2).pdf)
 
 ### Certification 2 <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20" height="20"/>
 - **Issued by**: Issuing Organization
