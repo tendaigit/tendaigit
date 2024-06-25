@@ -36,14 +36,15 @@
 ## 📚 Certifications
 
 
+### Certified Information Systems Security Professional (CISSP) 
+- **Issued by**: ISC2
+- **Date**: in progress
+  
 ### Security + 
 - **Issued by**: Comptia
 - **Date**: 06/2024
 - [View Certificate](https://www.credly.com/badges/0b18626b-4663-49c8-b061-e990853bae64/public_url)
  
-### Certified Information Systems Security Professional (CISSP) 
-- **Issued by**: ISC2
-- **Date**: in progress
 
 ### Google Cybersecurity  Certificate
 - **Issued by**: Coursera
