@@ -34,7 +34,7 @@
 ### Security + 
 - **Issued by**: Comptia
 - **Date**: 06/2024
-- [View Certificate](file:///Users/macbook/Downloads/CompTIA%20Security+%20ce%20certificate%20(2).pdf)
+- [View Certificate](https://www.credly.com/badges/0b18626b-4663-49c8-b061-e990853bae64/public_url)
 
 ### Certification 2 <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20" height="20"/>
 - **Issued by**: Issuing Organization
