@@ -28,9 +28,7 @@
 <img align="left" alt="Tensoflow" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
 <br />
 
-
-
-## Certifications
+### Certifications
 
 ### Certification 1 
 - **Issued by**: Comptia
