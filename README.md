@@ -30,10 +30,7 @@
 
 
 
----
 
-
-### Certifications
 
 
 ### Security + 
