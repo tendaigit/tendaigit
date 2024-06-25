@@ -26,7 +26,7 @@
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Tensoflow" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
-<br />
+
 
 
 ## Certifications
@@ -36,14 +36,12 @@
 - **Date**: 06/2024
 - [View Certificate](https://www.credly.com/badges/0b18626b-4663-49c8-b061-e990853bae64/public_url)
 
-### Certification 2 <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20" height="20"/>
-- **Issued by**: Issuing Organization
-- **Date**: Month Year
-- **Credential ID**: EFGH-5678
-- [View Certificate](https://link-to-certificate.com)
+### Google Cybersecurity  Certificate
+- **Issued by**: Coursera
+- **Date**: 2024
+- [View Certificate](https://www.credly.com/badges/c789b6e2-0b8f-433d-b393-3533452fc4c7/public_url)
 
-### Certification 3 <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20" height="20"/>
-- **Issued by**: Issuing Organization
-- **Date**: Month Year
-- **Credential ID**: IJKL-9101
-- [View Certificate](https://link-to-certificate.com)
+### Google Automation with Python
+- **Issued by**: Coursera
+- **Date**: 2024
+- [View Certificate]()
