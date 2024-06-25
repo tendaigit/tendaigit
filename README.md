@@ -27,9 +27,11 @@
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Tensoflow" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
 
+---
 
 
-## Certifications
+### Certifications
+
 
 ### Security + 
 - **Issued by**: Comptia
