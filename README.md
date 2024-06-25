@@ -33,7 +33,7 @@
 <br />
 
 
-### 📚 Certifications
+## 📚 Certifications
 
 
 ### Security + 
