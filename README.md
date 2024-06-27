@@ -1,6 +1,6 @@
 # Tendai
 
-**`Engineer, CyberSecurity Professional and Penetration Tester`**
+**`Engineer, CyberSecurity Professional and PenTester`**
 
 
 
