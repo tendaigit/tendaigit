@@ -2,11 +2,11 @@
 
 **`Engineer, CyberSecurity Professional and PenTester`**
 
-👋 Hi there! I'm a Cybersecurity Professional specializing in Penetration Testing. I focus on discovering vulnerabilities and strengthening security measures.
+👋 Hi there! Electronics Engineer passionate about integrating cybersecurity best practices into electronics engineering projects to enhance system reliability and protect sensitive data..
 
 🔒 **Security Enthusiast**  
 🛠️ **Penetration Tester**  
-🌐 **Ethical Hacking Advocate**
+🌐 **IoT Security Solutions**
 
 Explore my projects, tools, and scripts. Let's make the digital world safer!
 
